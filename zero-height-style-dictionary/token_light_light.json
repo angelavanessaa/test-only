@@ -1,0 +1,50 @@
+{
+  "accent": {
+    "bg": {
+      "type": "color",
+      "value": "#c3dafe"
+    },
+    "default": {
+      "type": "color",
+      "value": "#7f9cf5"
+    },
+    "onAccent": {
+      "type": "color",
+      "value": "#ffffff"
+    }
+  },
+  "bg": {
+    "default": {
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "muted": {
+      "type": "color",
+      "value": "#f7fafc"
+    },
+    "subtle": {
+      "type": "color",
+      "value": "#edf2f7"
+    }
+  },
+  "fg": {
+    "default": {
+      "type": "color",
+      "value": "#000000"
+    },
+    "muted": {
+      "type": "color",
+      "value": "#4a5568"
+    },
+    "subtle": {
+      "type": "color",
+      "value": "#a0aec0"
+    }
+  },
+  "shadows": {
+    "default": {
+      "type": "color",
+      "value": "#1a202c"
+    }
+  }
+}
