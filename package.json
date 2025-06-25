@@ -1,0 +1,31 @@
+{
+  "name": "test-only",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "build:tokens": "node tokens-studio/build-output.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelavanessaa/test-only.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelavanessaa/test-only/issues"
+  },
+  "homepage": "https://github.com/angelavanessaa/test-only#readme",
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.0",
+    "@vitejs/plugin-react": "^4.6.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "style-dictionary": "^5.0.0",
+    "vite": "^7.0.0"
+  }
+}
